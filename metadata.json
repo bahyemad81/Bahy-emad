@@ -1,0 +1,5 @@
+{
+  "name": "GPS - Audio-Text Sync Player",
+  "description": "An application that plays an Arabic voice-over while simultaneously highlighting the corresponding words in the text, providing a synchronized reading and listening experience.",
+  "requestFramePermissions": []
+}
